@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeaVSCoffee</string>
+    <string name="reset">Сброс</string>
+    <string name="plus" translatable="false">+1</string>
+    <string name="match" translatable="false">Vs</string>
+    <string name="score_1" translatable="false">0</string>
+    <string name="score_2" translatable="false">0</string>
+    <string name="colon" translatable="false">:</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="todo" translatable="false">TODO</string>
+
+</resources>

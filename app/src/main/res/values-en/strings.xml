@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TeaVSCoffee</string>
+    <string name="reset">reset</string>
+    <string name="tea">Tea</string>
+    <string name="coffee">Coffee</string>
+</resources>
